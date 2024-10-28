@@ -1,6 +1,4 @@
 - Hi, I’m @wittleder.
-- I’m interested math, finance, music, and design.
-- I’m currently learning ML, Pytorch, and Django.
 - How to reach me: wittlederme@gmail.com
 
 
